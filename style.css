@@ -7,9 +7,10 @@
   }
   body{
     font-family: montserrat;
+    background: linear-gradient(to right, rgb(26, 26, 27), #566573);
   }
   nav{
-    background: #030c13;
+    background: linear-gradient(to right, rgb(26, 26, 27), #566573);
     height: 80px;
     width: 100%;
   }
@@ -96,6 +97,14 @@
     background-size: cover;
     height: calc(100vh - 80px);
   }
+  
+
+
+
+
+
+
+
   
 
 
