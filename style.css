@@ -12,6 +12,7 @@
   nav{
     background: linear-gradient(to left, rgb(111, 111, 187), #252525);
     height: 80px;
+          position: fixed;
     width: 100%;
   }
   label.logo{
